@@ -1,0 +1,92 @@
+[
+  {
+    "question": "What is ethical hacking?",
+    "options": [
+      "The practice of breaking into systems for malicious purposes",
+      "The practice of using hacking techniques to identify security vulnerabilities in systems with permission",
+      "The use of hacking tools for personal gain",
+      "The development of hacking tools and techniques"
+    ],
+    "correct": "The practice of using hacking techniques to identify security vulnerabilities in systems with permission"
+  },
+  {
+    "question": "Which of the following is NOT a common phase of ethical hacking?",
+    "options": ["Reconnaissance", "Scanning", "Attack", "Reporting"],
+    "correct": "Attack"
+  },
+  {
+    "question": "What is a penetration test?",
+    "options": [
+      "A test to evaluate the performance of network hardware",
+      "An attempt to gain unauthorized access to systems to identify security weaknesses",
+      "A test of the physical security of a building",
+      "An evaluation of software performance under stress"
+    ],
+    "correct": "An attempt to gain unauthorized access to systems to identify security weaknesses"
+  },
+  {
+    "question": "Which tool is commonly used for network scanning in ethical hacking?",
+    "options": ["Wireshark", "Metasploit", "Nmap", "John the Ripper"],
+    "correct": "Nmap"
+  },
+  {
+    "question": "What does the acronym 'CIA' stand for in cybersecurity?",
+    "options": [
+      "Confidentiality, Integrity, and Availability",
+      "Central Intelligence Agency",
+      "Confidentiality, Identification, and Authentication",
+      "Control, Integrity, and Authorization"
+    ],
+    "correct": "Confidentiality, Integrity, and Availability"
+  },
+  {
+    "question": "Which type of attack involves overwhelming a system with a flood of traffic to make it unavailable?",
+    "options": [
+      "Phishing",
+      "Man-in-the-middle",
+      "Denial of Service (DoS)",
+      "SQL Injection"
+    ],
+    "correct": "Denial of Service (DoS)"
+  },
+  {
+    "question": "What is social engineering in the context of cybersecurity?",
+    "options": [
+      "The use of engineering techniques to design secure systems",
+      "Manipulating people into divulging confidential information",
+      "Using software to break encryption",
+      "Developing software that mimics human behavior"
+    ],
+    "correct": "Manipulating people into divulging confidential information"
+  },
+  {
+    "question": "What is the purpose of using a honeypot in network security?",
+    "options": [
+      "To collect data on legitimate user activities",
+      "To attract and trap malicious attackers",
+      "To speed up network traffic",
+      "To encrypt network communications"
+    ],
+    "correct": "To attract and trap malicious attackers"
+  },
+  {
+    "question": "Which of the following is a legal and ethical requirement for an ethical hacker before conducting any tests?",
+    "options": [
+      "Obtaining explicit permission from the system owner",
+      "Ensuring anonymity during the test",
+      "Using only open-source tools",
+      "Informing law enforcement agencies"
+    ],
+    "correct": "Obtaining explicit permission from the system owner"
+  },
+  {
+    "question": "What is the main difference between a vulnerability assessment and a penetration test?",
+    "options": [
+      "A vulnerability assessment is more comprehensive than a penetration test",
+      "A penetration test actively exploits vulnerabilities, whereas a vulnerability assessment identifies but does not exploit them",
+      "A vulnerability assessment is focused on physical security, while a penetration test is focused on network security",
+      "There is no difference; they are the same thing"
+    ],
+    "correct": "A penetration test actively exploits vulnerabilities, whereas a vulnerability assessment identifies but does not exploit them"
+  }
+]
